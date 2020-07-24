@@ -17,10 +17,6 @@ browser.find_element_by_id('su').click()                  # 通过id定位百度
 # browser.quit()            # 此处为了保留网页，不退出浏览器，其他时候，记得用完退出，避免进程过多
 ```
 
-效果如下：
-
-![1595580490519](D:\WorkDoc\assets\1595580490519.png)
-
 
 
 ## Action
