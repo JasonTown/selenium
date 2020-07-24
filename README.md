@@ -1,6 +1,6 @@
 # Selenium 基本操作
 
-[TOC]
+随便写了一些，有不对的欢迎指正。
 
 ## Hello World
 
